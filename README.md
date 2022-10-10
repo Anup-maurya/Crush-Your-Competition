@@ -2,14 +2,14 @@
 
 Build trust to connect your brand to billions of users and grow your revenue through SEO.
 
-This Page is built using **HTML5 and CSS3 **.
+This Page is built using **HTML5 and CSS3**.
 
 
 
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://developerlanding.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://crushyourcompetitionbyanup.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
