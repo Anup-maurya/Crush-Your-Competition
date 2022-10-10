@@ -24,7 +24,7 @@ This Page is built using **HTML5 and CSS3**.
 
 <br>
 
-![Screenshot](./screenshot.png)
+![Screenshot](./assets/screencapture.png)
 
 
 ## 📌 My process
